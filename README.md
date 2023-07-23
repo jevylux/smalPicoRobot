@@ -7,3 +7,4 @@ On the robot is a joystick to test steering manually.
 The Ièhone will simultae this joystick by sending BLE commands.
 Ultimately, The robot will have a Camera mounted on it, and the stream from the camera should be send to the iPhone.
 
+This is work in progress
