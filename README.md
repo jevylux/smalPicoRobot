@@ -1,4 +1,4 @@
-# smalPicoRobot
+# smallPicoRobot
 a small robot based on a Raspberry Pico an possibility to steer it from an iPhone using BLE-
 The robot software is written in microphython.
 The integration with the iPhone is work in progress
